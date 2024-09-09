@@ -1,2 +1,2 @@
 # gamnyam_lab
-## algorithm_study
+### 1.algorithm_study
